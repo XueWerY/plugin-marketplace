@@ -6,7 +6,6 @@
 - [随机数生成器](https://github.com/XueWerY/random-number) — 在指定范围内生成随机数 #随机数 #实用工具
 - [提醒查看器](https://github.com/XueWerY/reminder-viewer) — 查看所有已调度的提醒 #提醒 #实用工具
 - [原神工具箱](https://github.com/XueWerY/genshin) — 抽卡分析、抽卡模拟器、角色综合测评、卡池计时器、圣遗物评分、历史卡池 #原神 #实用工具
-- [视频](https://github.com/XueWerY/video) — 悬浮播放视频 #视频 #实用工具
 
 ## 插件开发指南
 
